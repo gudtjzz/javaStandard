@@ -18,28 +18,28 @@
 
 ### Chapter 5 배열(Array)
 
-- [ ] 1. 배열(array) | 09.14
-- [ ] 2. String 배열 | 09.15
-- [ ] 3. 다차원 배열 | 09.16
+- [ ] 1. 배열(array)
+- [ ] 2. String 배열
+- [ ] 3. 다차원 배열
 
 ### Chapter 6 객체지향 프로그래밍 I
 
-- [ ] 4. 객체지향언어 | 09.17
-- [ ] 5. 클래스와 객체 | 09.17
-- [ ] 6. 변수와 메서드 | 09.19
-- [ ] 7. 오버로딩 | 09.20
-- [ ] 8. 생성자 | 09.21
-- [ ] 9. 변수의 초기화 | 09.22
+- [ ] 4. 객체지향언어
+- [ ] 5. 클래스와 객체
+- [ ] 6. 변수와 메서드
+- [ ] 7. 오버로딩
+- [ ] 8. 생성자
+- [ ] 9. 변수의 초기화
 
 ### Chapter 7 객체지향 프로그래밍 II
 
-- [ ] 10. 상속(inheritance) | 09.23
-- [ ] 11. 오버라이딩(overriding) | 09.25
-- [ ] 12. package와 import | 09.25
-- [ ] 13. 제어자(modifier) | 09.27
-- [ ] 14. 다형성(polymorphism) | 09.27
-- [ ] 15. 추상클래스(abstract class) | 09.28
-- [ ] 16. 인터페이스(interface) | 09.29
+- [ ] 10. 상속(inheritance)
+- [ ] 11. 오버라이딩(overriding)
+- [ ] 12. package와 import
+- [ ] 13. 제어자(modifier)
+- [ ] 14. 다형성(polymorphism)
+- [ ] 15. 추상클래스(abstract class)
+- [ ] 16. 인터페이스(interface)
 - [ ] 17. 내부 클래스(inner class)
 
 ### Chapter 8 예외처리(Exception Handling)
